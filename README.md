@@ -43,6 +43,7 @@ Expand-Archive .\event-management-ui.zip -DestinationPath .
 
 # 2 – install dependencies
 cd event-management-ui
+
 npm install
 
 # 3 – start dev-server
