@@ -21,7 +21,7 @@
 
 ```bash
 # 1 – restore NuGet packages
-cd backend/Event\ Management\ Platform
+Once you downloaded the project locally
 dotnet restore
 
 # 2 – create & seed the SQLite database (first run only)
